@@ -1,12 +1,12 @@
 #### PHP | Joomla | Biblioteca PHPBoleto empacotada para o CMS Joomla!
 
-Esta biblioteca contÈm, para sua comodidade, apenas um modo f·cil de 
-instala-la no CMS Joomla sem que tenha que misturar dentro da estrutura de uma 
-extens„o especifica, de modo que possa ser reutilizada de forma padr„o por mais 
-de uma extens„o do CMS.
+Esta biblioteca cont√©m, para sua comodidade, apenas um modo f√°cil de 
+instal√°-la no CMS Joomla sem que tenha que misturar dentro da estrutura de uma 
+extens√£o especifica, de modo que possa ser reutilizada de forma padr√£o por mais 
+de uma extens√£o do CMS.
 
-Neste momento, contÈm unica e exclusivamente apenas o instalador para o CMS, e 
-nada mais foi adicionado ou melhorado em relaÁ„o ao desenvolvedor original
+Neste momento, contÔøΩm unica e exclusivamente apenas o instalador para o CMS, e 
+nada mais foi adicionado ou melhorado em rela√ß√£o ao desenvolvedor original
 
 Autor do pacote Joomla!: 
 Emerson Rocha Luiz - emerson@webdesign.eng.br - http://fititnt.org
@@ -26,11 +26,16 @@ Veja arquivo phpboleto/COPYING
 #### Usage
 
 #### Todo
+- Implementar de um modo "mais JPlatform" o modo de uso da biblioteca
+- Durante a instala√ß√£o n√£o aparece o nome traduzido da biblioteca. Resolver 
 
 #### Changelog
 <pre>
-2012-02-18 23:39
-! RepositÛrio criado. Clone de https://github.com/BielSystems/boletophp
+2012-02-19
++ Implementado XML e arquivos de instalacao para o CMS Joomla
+
+2012-02-18
+! Repositorio criado. Clone de https://github.com/BielSystems/boletophp
 ^ Arquivos originais da biblioteca foram movidos para subfolder phpboleto
 + Adicionado .gitignore
 + Adicionado arquivos index.html em todas as pastas, inclusive as de phpboleto
