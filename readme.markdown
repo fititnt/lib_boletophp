@@ -19,22 +19,23 @@ Veja arquivo phpboleto/CREDITOS.txt
 Veja arquivo phpboleto/COPYRIGHT
 Veja arquivo phpboleto/COPYING
 
------------------------------------ How to use ---------------------------------
+#### How to use
 
---------------------------- Instalation & Dependences --------------------------
+#### Instalation & Dependences
 
--------------------------------------- Usage -----------------------------------
+#### Usage
 
--------------------------------------- Todo ------------------------------------
+#### Todo
 
------------------------------------ Changelog ----------------------------------
-
+#### Changelog
+<pre>
 2012-02-18 23:39
 ! Repositório criado. Clone de https://github.com/BielSystems/boletophp
 ^ Arquivos originais da biblioteca foram movidos para subfolder phpboleto
 + Adicionado .gitignore
 + Adicionado arquivos index.html em todas as pastas, inclusive as de phpboleto
 + Adicionado este arquivo readme.markdown
+* Alterado referencias de phpboleto para boletophp
 
 CHANGELOG LEGEND:
 + Added
@@ -43,3 +44,4 @@ CHANGELOG LEGEND:
 * Bugfix
 # Security Fix
 ! Relevant message
+</pre>
